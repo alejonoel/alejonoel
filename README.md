@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejo!</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Tykkera](https://www.tykkera.com/)
-
 - 🌱 I’m currently learning **new and diverse technologies with the aim of becoming more qualified every day.**
 
 - 💬 Ask me about **react, next.js and mongoDB**
